@@ -1,4 +1,4 @@
-## Privacy Policy
+## Privacy Policy for the Daily SOAP app
 
 Daily SOAP app as a Free app. This SERVICE is provided at no cost and is intended for use as is.
 
